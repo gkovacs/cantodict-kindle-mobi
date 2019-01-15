@@ -261,7 +261,7 @@ fr.close()
 lineno = i - 1
 
 to = open("%s.opf" % name, 'w')
-to.write(OPFTEMPLATEHEAD1 % (name, 'CEDICT Chinese-English'))
+to.write(OPFTEMPLATEHEAD1 % (name, 'CantoDict Chinese-English'))
 if not UTFINDEX:
     to.write(OPFTEMPLATEHEADNOUTF)
 to.write(OPFTEMPLATEHEAD2)
