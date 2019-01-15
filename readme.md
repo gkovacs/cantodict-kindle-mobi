@@ -18,6 +18,12 @@ python tab2opf.py -utf dictionary.txt
 kindlegen dictionary.opf
 ```
 
+If you would also like it in stardict format, install stardict-tools and then 
+
+```bash
+/usr/lib/stardict-tools/tabfile dictionary.txt
+```
+
 # Author
 
 [Geza Kovacs](https://github.com/gkovacs)

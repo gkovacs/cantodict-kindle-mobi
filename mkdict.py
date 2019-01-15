@@ -231,6 +231,7 @@ def get_merged_entries():
 
 def make_stardict_lines():
   output = []
+  output_set = set()
   for entry in get_merged_entries():
     trad = entry['trad']
     simp = entry['simp']
@@ -241,12 +242,18 @@ def make_stardict_lines():
     line = trad + '\t' + simp + ' ' + zhu + '\\n' + ('\\n'.join(definitions))
     if yue != None:
       line = trad + '\t' + simp + ' ' + zhu + ' ' + yue + '\\n' + ('\\n'.join(definitions))
+    if trad in output_set:
+      continue
+    output_set.add(trad)
     output.append(line)
     if trad == simp:
       continue
-    line = trad + '\t' + simp + ' ' + zhu + '\\n' + ('\\n'.join(definitions))
+    line = simp + '\t' + trad + ' ' + zhu + '\\n' + ('\\n'.join(definitions))
     if yue != None:
-      line = trad + '\t' + simp + ' ' + zhu + ' ' + yue + '\\n' + ('\\n'.join(definitions))
+      line = simp + '\t' + trad + ' ' + zhu + ' ' + yue + '\\n' + ('\\n'.join(definitions))
+    if simp in output_set:
+      continue
+    output_set.add(simp)
     output.append(line)
   return output
 

@@ -43,7 +43,6 @@
  <item id="dictionary19" href="dictionary19.html" media-type="text/x-oeb1-document"/>
  <item id="dictionary20" href="dictionary20.html" media-type="text/x-oeb1-document"/>
  <item id="dictionary21" href="dictionary21.html" media-type="text/x-oeb1-document"/>
- <item id="dictionary22" href="dictionary22.html" media-type="text/x-oeb1-document"/>
 </manifest>
 
 
@@ -71,7 +70,6 @@
 	<itemref idref="dictionary19"/>
 	<itemref idref="dictionary20"/>
 	<itemref idref="dictionary21"/>
-	<itemref idref="dictionary22"/>
 </spine>
 
 <tours/>
