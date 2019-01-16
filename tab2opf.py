@@ -261,7 +261,10 @@ fr.close()
 lineno = i - 1
 
 to = open("%s.opf" % name, 'w')
-to.write(OPFTEMPLATEHEAD1 % (name, 'CantoDict Chinese-English'))
+dict_title = 'Chinese-English (Pinyin + Jyutping)'
+if 'zhuyin' in sys.argv:
+    dict_title = 'Chinese-English (Zhuyin + Jyutping)'
+to.write(OPFTEMPLATEHEAD1 % (name, dict_title))
 if not UTFINDEX:
     to.write(OPFTEMPLATEHEADNOUTF)
 to.write(OPFTEMPLATEHEAD2)

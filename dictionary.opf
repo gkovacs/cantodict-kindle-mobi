@@ -9,7 +9,7 @@
 	<dc-metadata>
 		<dc:Identifier id="uid">dictionary</dc:Identifier>
 		<!-- Title of the document -->
-		<dc:Title><h2>CantoDict Chinese-English</h2></dc:Title>
+		<dc:Title><h2>Chinese-English (Pinyin + Jyutping)</h2></dc:Title>
 		<dc:Language>EN</dc:Language>
 	</dc-metadata>
 	<x-metadata>
