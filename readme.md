@@ -6,9 +6,7 @@ Amazon Kindle Store: [Pinyin and Jyutping version](https://www.amazon.com/Chines
 
 Mobi version (you will need to sideload it yourself): [Pinyin and Jyutping version](https://github.com/gkovacs/cantodict-kindle-mobi/blob/master/dictionary.mobi) or [Zhuyin and Jyutping version](https://github.com/gkovacs/cantodict-kindle-mobi/blob/master/dictionary_zhuyin.mobi)
 
-## Donate
-
-[Paypal](https://www.paypal.me/gezak/5) [Venmo](https://venmo.com/?txn=pay&recipients=gezak&amount=5.00&note=for%20Chinese-English%20Dictionary&audience=public) [Bitcoin](https://www.gkovacs.com/bitcoin.html)
+Donations appreciated: [Paypal](https://www.paypal.me/gezak/5) [Venmo](https://venmo.com/?txn=pay&recipients=gezak&amount=5.00&note=for%20Chinese-English%20Dictionary&audience=public) [Bitcoin](https://www.gkovacs.com/bitcoin.html)
 
 ## About
 
