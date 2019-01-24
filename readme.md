@@ -90,3 +90,7 @@ MIT
 
 For version with pinyin and no jyutping, see https://github.com/gkovacs/cc-cedict-kindle-mobi
 
+# Donate
+
+[Donations appreciated](http://www.gkovacs.com/donate.html)
+
