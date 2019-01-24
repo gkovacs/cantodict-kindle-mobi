@@ -22,6 +22,22 @@
 
 ## About
 
+Chinese-English Dictionary with Mandarin and Cantonese Pronunciations
+
+Send to your Kindle, select it as the built-in dictionary, and you can look up words just by clicking on them!
+
+Supports looking up both Simplified and Traditional characters. Over 200,000 entries.
+
+Mandarin (Standard Chinese / Putonghua) pronunciations are in Pinyin (example: nǐ hǎo), Cantonese (Yue) pronunciations are in Jyutping (example: nei5 hou2).
+
+Example entry: 发展 (Simplified) 發展 (Traditional) fā zhǎn (Mandarin Pinyin) faat3 zin2 (Cantonese Jyutping) development, growth, to develop, to grow, to expand
+
+Also includes Cantonese specific words such as 冇 and Cantonese specific words such as 唔該
+
+Example entry: 唔該 (Traditional) 唔该 (Simplified) wú gāi (Mandarin Pinyin) m4 goi1 (Cantonese Jyutping) please; thanks; excuse me
+
+## About (technical)
+
 These scripts generate a `.mobi` file from the CC-CEDICT Chinese-English dictionary and the CantoDict dictionary.
 
 You can then load this `.mobi` file to your Kindle to use it as a dictionary.
