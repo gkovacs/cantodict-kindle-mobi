@@ -26,7 +26,7 @@ Example entry: 唔該 (Traditional) 唔该 (Simplified) wú gāi (Mandarin Pinyi
 
 ## About (technical)
 
-Note that only e-ink kindles support adding external dictionaries. If you want to use this on an Andoid device, you can do so by replacing an existing dictionary - ie, if you want to replace the built-in chinese-english dictionary follow [the following instructions](https://www.mobileread.com/forums/showthread.php?t=245121):
+Note that only e-ink kindles support adding external dictionaries. If you want to use this on an Andoid device, you can do so by replacing an existing dictionary - ie, if you want to replace the built-in Chinese-English dictionary, replace `/sdcard/Android/data/com.amazon.kindle/files/B00AZOHEGE/B00AZOHEGE_EBOK.prc` with the dowloaded mobi file. More detailed instructions are as follows [(source)](https://www.mobileread.com/forums/showthread.php?t=245121).
 
 ```
 Open any book (no matter which) and request a definition in a language that you won't use (Deutsche for example). The Kindle app will start to download that dictionary; wait the download is completed and exit from the app (use task manager to kill the app to make sure).
