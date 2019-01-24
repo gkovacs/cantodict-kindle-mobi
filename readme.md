@@ -45,7 +45,7 @@ Copy in this folder your french dictionary and give it the same name as the .prc
 Now open Kindle app and use your dictionary (of course, you will be choosing the Deutsche dictionary but actually will be your french dict.)
 ```
 
-## About (code)
+## About the code
 
 These scripts generate a `.mobi` file from the CC-CEDICT Chinese-English dictionary and the CantoDict dictionary.
 
@@ -53,7 +53,7 @@ You can then load this `.mobi` file to your Kindle to use it as a dictionary.
 
 The generated dictionary includes pinyin or zhuyin (mandarin), jyutping (cantonese) and definitions for words.
 
-# Running
+### Running the code to generate dictionaries
 
 First install python, python3 and kindlegen. Then run the following commands
 
