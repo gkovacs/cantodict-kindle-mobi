@@ -2,9 +2,9 @@
 
 ## Download
 
-Amazon Kindle Store: [Pinyin and Jyutping version](https://www.amazon.com/Chinese-English-Dictionary-Mandarin-Cantonese-Pronunciations-ebook/dp/B07MV9TJQB/) or [Zhuyin and Jyutping version](https://www.amazon.com/Chinese-English-Dictionary-Mandarin-Cantonese-Pronunciations-ebook/dp/B07MVF4NGF)
+Amazon Kindle Store: [Pinyin and Jyutping](https://www.amazon.com/Chinese-English-Dictionary-Mandarin-Cantonese-Pronunciations-ebook/dp/B07MV9TJQB/) or [Zhuyin and Jyutping](https://www.amazon.com/Chinese-English-Dictionary-Mandarin-Cantonese-Pronunciations-ebook/dp/B07MVF4NGF)
 
-Mobi version (you will need to sideload it yourself): [Pinyin and Jyutping version](https://github.com/gkovacs/cantodict-kindle-mobi/blob/master/dictionary.mobi) or [Zhuyin and Jyutping version](https://github.com/gkovacs/cantodict-kindle-mobi/blob/master/dictionary_zhuyin.mobi)
+Mobi version (you can sideload it yourself): [Pinyin and Jyutping](https://github.com/gkovacs/cantodict-kindle-mobi/blob/master/dictionary.mobi) or [Zhuyin and Jyutping](https://github.com/gkovacs/cantodict-kindle-mobi/blob/master/dictionary_zhuyin.mobi)
 
 Donations appreciated: [Paypal](https://www.paypal.me/gezak/5) [Venmo](https://venmo.com/?txn=pay&recipients=gezak&amount=5.00&note=for%20Chinese-English%20Dictionary&audience=public) [Bitcoin](https://www.gkovacs.com/bitcoin.html)
 
