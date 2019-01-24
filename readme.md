@@ -27,7 +27,13 @@ Also includes Cantonese specific words such as 冇 and Cantonese specific words 
 
 ## Supported Devices
 
-With e-ink kindles, you can [add an external dictionary](https://www.epubor.com/how-to-change-or-add-dictionary-to-kindle.html) by buying it on the Kindle store ([or sideloading](https://www.lifewire.com/load-non-amazon-books-kindle-1616647)), highlighting a word, then selecting the dictionary. If you want to use this on an Andoid device, you can do so by replacing an existing dictionary - ie, if you want to replace the built-in Chinese-English dictionary, replace `/sdcard/Android/data/com.amazon.kindle/files/B00AZOHEGE/B00AZOHEGE_EBOK.prc` with the dowloaded mobi file. More detailed instructions are as follows [(source)](https://www.mobileread.com/forums/showthread.php?t=245121).
+### E-ink Kindles
+
+With e-ink kindles, you can [add an external dictionary](https://www.epubor.com/how-to-change-or-add-dictionary-to-kindle.html) by buying it on the Kindle store ([or sideloading](https://www.lifewire.com/load-non-amazon-books-kindle-1616647)), highlighting a word, then selecting the dictionary.
+
+### Kindle app on Android
+
+If you want to use this on an Andoid device, you can do so by replacing an existing dictionary - ie, if you want to replace the built-in Chinese-English dictionary, replace `/sdcard/Android/data/com.amazon.kindle/files/B00AZOHEGE/B00AZOHEGE_EBOK.prc` with the dowloaded mobi file. More detailed instructions are as follows [(source)](https://www.mobileread.com/forums/showthread.php?t=245121).
 
 ```
 Open any book (no matter which) and request a definition in a language that you won't use (Deutsche for example). The Kindle app will start to download that dictionary; wait the download is completed and exit from the app (use task manager to kill the app to make sure).
