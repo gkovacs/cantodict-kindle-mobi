@@ -14,11 +14,7 @@
 
 ## Donate
 
-[Paypal](https://www.paypal.me/gezak/5)
-
-[Venmo](https://venmo.com/?txn=pay&recipients=gezak&amount=5.00&note=for%20Chinese-English%20Dictionary&audience=public)
-
-[Bitcoin](https://www.gkovacs.com/bitcoin.html)
+[Paypal](https://www.paypal.me/gezak/5) [Venmo](https://venmo.com/?txn=pay&recipients=gezak&amount=5.00&note=for%20Chinese-English%20Dictionary&audience=public) [Bitcoin](https://www.gkovacs.com/bitcoin.html)
 
 ## About
 
